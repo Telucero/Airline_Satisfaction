@@ -37,7 +37,6 @@ Story
 Through route mapping, we visualized flight paths associated with low customer satisfaction scores, pinpointing potential areas of concern. By segmenting routes based on satisfaction levels and type of travel, airlines can tailor interventions to improve customer experiences and enhance overall satisfaction.
 
 ## Operational Recommendations
-Operational Recommendations
 
 1. Enhance Service Quality:
 Customer Segmentation: Conduct a comprehensive analysis to understand the unique needs and preferences of different customer segments based on factors such as airline status, age, and type of travel.
